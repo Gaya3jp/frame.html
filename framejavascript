@@ -1,0 +1,31 @@
+<html>
+<head>
+<title>PROFILE</title>
+</head>
+<stylesheet="ahref"=sheet</style>
+<form>
+<body><style>
+body
+{
+border=dashed;
+background color:green;
+size=20;
+}
+</style>
+<h2>PROFILE</h2>
+<frame =link </frame>
+<frame>=About me </frame>
+<frame>=Qualifications page </frame>
+<frame>=Hobby </frame>
+<input type="name" value= My name is xyz.My father's name is abc.My mother's pqr.<b></td></b>
+<tr  colspan="2" row=50% </tr>
+<tr>
+<td> EDUCATION :Degree </td>
+</tr>
+<tr><td> Institution</tr></td>
+<tr><td>Hobbies</tr><td>
+<td<input type="name" value="Walking"</td>
+<td><input type="name" value="Drawing"</td>
+</form>
+</body>
+</html>
